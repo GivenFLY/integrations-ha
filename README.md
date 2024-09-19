@@ -25,11 +25,11 @@ This Python project integrates with the Rick and Morty API to fetch and process 
 2. **Install the Required Libraries**  
    * Install the poetry if needed:
       ```bash
-      poetry install
+      pip install poetry
       ```
    * Install requirements:
       ```bash
-       poetry install
+      poetry install
       ```
 
 3. **Run the Sample Application**
